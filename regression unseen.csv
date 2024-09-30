@@ -1,0 +1,10 @@
+Year,Station Number,City,Location,Type,Valid Hour,10th Percentile,30th Percentile,50th Percentile,70th Percentile,90th Percentile,99 Percentile,Mean,1-Hour Maximum,24-Hour  Maximum
+2022,12008,Windsor Downtown,467 University Ave. W.,A,8743,2,4,6,,15,27,7.85,56,26.4
+2021,12008,Windsor Downtown,467 University Ave. W.,A,8730,2,5,7,10,16,30,8.36,55,
+2020,12008,Windsor Downtown,467 University Ave. W.,A,8722,2,,6,8,14,,7.08,,28.7
+2019,12008,Windsor Downtown,467 University Ave. W.,A,8488,3,4,6,,16,29,7.82,49,26.8
+2018,12008,Windsor Downtown,467 University Ave. W.,A,8495,,5,7,10,17,30,8.52,56,28.7
+2017,12008,Windsor Downtown,467 University Ave. W.,A,8705,3,5,6,9,15,27,7.82,45,30.2
+2016,12008,Windsor Downtown,467 University Ave. W.,A,8750,,4,7,10,16,27,8.12,65,
+2015,12008,Windsor Downtown,467 University Ave. W.,A,8738,3,5,7,11,18,,9.32,65,37.5
+2014,12008,Windsor Downtown,467 University Ave. W.,A,8624,4,6,,12,19,,10.15,72,29.2
